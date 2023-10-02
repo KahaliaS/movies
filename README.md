@@ -1,1 +1,1 @@
-# movies
+# GraphQL - movies example
